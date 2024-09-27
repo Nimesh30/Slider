@@ -52,6 +52,7 @@ body::before {
 }
 
 .slide.active {
+  border: 1px solid rgb(255, 255, 255);
   opacity: 1;
 }
 
